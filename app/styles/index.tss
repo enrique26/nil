@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:'white',
+	navBarHidden:true,
+}
+	
+
+"#concale":{
+	top:0
+}
+
