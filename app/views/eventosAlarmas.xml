@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<View id="contenedor1" top="80" height="120" backgroundColor="black" layout="vertical">
+			<TextField id="nombre" hintText="Titulo Evento" top="10" backgroundColor="white"></TextField>
+			<TextField id="usuario" hintText="password" passwordMask="true" top="10" backgroundColor="white"></TextField>
+			<Button id="crearUsuario" top="20" backgroundColor="white">Dar de alta</Button>
+		</View>
+	</Window>
+</Alloy>
