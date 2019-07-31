@@ -1,0 +1,44 @@
+"noticias":[
+  {
+    "id":1,
+    "title":"¿Cómo manterner la productividad en tu área laboral?",
+    "count":8,
+    "time":"30 minutos",
+    "image":"require('../../assets/img/surface.png')",
+    "imageHeader":"require('../../assets/img/surface3.png')"
+  },
+  {
+    "id":2,
+    "title":"¡IMPORTANTE! La carretera a Puebla está bloqueada",
+    "count":2,
+    "time":"2 horas",
+    "grupo":"#operaciones",
+    "image":"require('../../assets/img/surface2.png')",
+    "imageHeader":"require('../../assets/img/surface3.png')"
+  },
+  {
+    "id":3,
+    "title":"¿Cómo manterner la productividad en tu área laboral?",
+    "count":5,
+    "time":"12:30",
+    "image":"require('../../assets/img/surface.png')",
+    "imageHeader":"require('../../assets/img/surface3.png')"
+  },
+  {
+    "id":4,
+    "title":"¡IMPORTANTE! La carretera a Puebla está bloqueada",
+    "count":2,
+    "time":"2 horas",
+    "grupo":"#operaciones",
+    "image":"require('../../assets/img/surface2.png')",
+    "imageHeader":"require('../../assets/img/surface3.png')"
+  },
+  {
+    "id":5,
+    "title":"¿Cómo manterner la productividad en tu área laboral? ",
+    "count":6,
+    "time":"12:30",
+    "image":"require('../../assets/img/surface.png')",
+    "imageHeader":"require('../../assets/img/surface3.png')"
+  }
+]
